@@ -1,7 +1,7 @@
 👋 Hi, I’m Mohamed Ghareeb
 
 
-👀 A passionate learner and enthusiast in the realm of embedded systems. Currently on a journey of mastering the intricacies of C, Python, and C++, I find joy in creating efficient and innovative solutions that bridge the gap between hardware and software.💞️
+👀 A passionate learner and enthusiast in the realm of embedded systems. Currently, on a journey of mastering the intricacies of C, Python, and C++, I find joy in creating efficient and innovative solutions that bridge the gap between hardware and software.💞️
 
 
 🛠️ My current focus lies in the fascinating world of embedded Linux.💞️
@@ -17,4 +17,4 @@ Python: Harnessing the versatility of Python to enhance the functionality and fl
 
 📫 Feel free to reach out for collaboration, or just a friendly coding chat: mohamed.gh.sleem@gmail.com
 
-🚀 Excited to be part of the thriving GitHub community!
+🚀🚀🚀🚀🚀
